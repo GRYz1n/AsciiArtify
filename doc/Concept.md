@@ -30,7 +30,7 @@ AsciiArtify, a startup focused on developing a new software product for transfor
 ## Demonstration
 Recommended Tool: k3d Deployment of "Hello World" Application on Kubernetes  
 
-![Application on Kubernetes](https://github.com/GRYz1n/AsciiArtify/assets/87845105/acdc9e22-93b3-44ca-8ebf-32e973ba28eb)
+![Application on Kubernetes]( https://github.com/GRYz1n/AsciiArtify/raw/master/doc/demo1.gif )
 
 
 ## Conclusion
